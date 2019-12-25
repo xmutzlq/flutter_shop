@@ -1,0 +1,5 @@
+com.example.flutter_shop
+drawable launch_background
+mipmap ic_launcher
+mipmap launch_image
+style LaunchTheme

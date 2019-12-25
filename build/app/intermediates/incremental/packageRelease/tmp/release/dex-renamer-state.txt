@@ -1,0 +1,4 @@
+#Tue Dec 10 18:36:01 CST 2019
+base.0=/Users/xmutzlq/zlq_document/Flutter/flutter_shop/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
