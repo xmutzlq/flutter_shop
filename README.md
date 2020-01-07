@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/xmutzlq/MagicRoundButton/blob/master/gif/r1.png" width="300" height="567" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
