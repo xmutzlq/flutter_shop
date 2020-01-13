@@ -2,10 +2,7 @@
 
 A new Flutter project.
 
-<img src="https://github.com/xmutzlq/flutter_shop/blob/master/art/6AAD0EE5-8A0B-4F26-9485-1FCA16FA19A5.png" width="300" height="567" />
-<img src="https://github.com/xmutzlq/flutter_shop/blob/master/art/2CD93FD5-C017-4266-80FA-185F92679830.png" width="300" height="567" />
-<img src="https://github.com/xmutzlq/flutter_shop/blob/master/art/D6BD8526-A2D6-4CAC-A21D-1B9E47CCE270.png" width="300" height="567" />
-<img src="https://github.com/xmutzlq/flutter_shop/blob/master/art/68B09D4F-C5DA-441D-99E6-80D576B4C09E.png" width="300" height="567" />
+<img src="https://github.com/xmutzlq/flutter_shop/blob/master/art/6AAD0EE5-8A0B-4F26-9485-1FCA16FA19A5.png" width="300" height="567" /><img src="https://github.com/xmutzlq/flutter_shop/blob/master/art/2CD93FD5-C017-4266-80FA-185F92679830.png" width="300" height="567" /><img src="https://github.com/xmutzlq/flutter_shop/blob/master/art/D6BD8526-A2D6-4CAC-A21D-1B9E47CCE270.png" width="300" height="567" /><img src="https://github.com/xmutzlq/flutter_shop/blob/master/art/68B09D4F-C5DA-441D-99E6-80D576B4C09E.png" width="300" height="567" />
 
 ## Getting Started
 
